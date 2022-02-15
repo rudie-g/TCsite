@@ -7,6 +7,7 @@ function Info() {
             <Ticker />
             <br />
             <Card />
+            <Embed />
         </div>
     )
 }
